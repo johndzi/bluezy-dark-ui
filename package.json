@@ -1,10 +1,10 @@
 {
-  "name": "atom-dark-ui",
+  "name": "bluezy-dark-ui",
   "theme": "ui",
   "version": "0.26.0",
-  "description": "Default dark theme for interface components",
+  "description": "Dark Atom UI theme based on atom-dark-ui",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/johndzi/bluezy-dark-ui",
   "engines": {
     "atom": ">0.40.0"
   }
